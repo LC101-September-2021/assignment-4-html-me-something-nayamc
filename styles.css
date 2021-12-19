@@ -1,1 +1,68 @@
 /* Write your CSS here! */
+
+#title{
+    color:blue;
+}
+#mainHeading{
+    color: red;
+    padding: 10px;
+    text-align: center;
+}
+
+body{
+    margin: 8px;
+    display: block;
+}
+
+image{
+    text-align: center;
+}
+
+h2 {
+     padding: 25px;
+     text-align: center;
+     font-size: 1.87em;
+     color:white;
+     font-family: monospace;
+}
+
+
+.Recipe, .ingredients{
+    text-align: center;
+    font-size: 1.3em;
+    font-variant: small-caps;
+    color: white;
+}
+
+.instructions{
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+}
+
+ #spiderPar, #casuPar, #cakePar, #haggisPar, #balutPar, #shirakoPar, #soupPar, #tongPar, #moosePar{
+    font-family:monospace;
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+}
+.funParagraph {
+    font-family:monospace;
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+
+#background{
+background-color:black;
+opacity: 1;
+}
+
